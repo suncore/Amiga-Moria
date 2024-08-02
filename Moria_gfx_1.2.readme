@@ -1,0 +1,40 @@
+Graphic UMoria 5.5 for the Amiga. (v1.2)
+
+Description of Moria, from the original Moria documentation:
+
+--
+
+  The game of moria is a single player dungeon simulation.  A player may
+  choose from a number of races and classes when creating a character,
+  and then `run' that character over a period of days, weeks, even
+  months, attempting to win the game by defeating the Balrog which lurks
+  in the deeper levels.
+
+  The player will begin his adventure on the town level where he may
+  acquire supplies, weapons, armor, and magical devices by bartering
+  with various shop owners.  After preparing for his adventure, the
+  player can descend into the dungeons of moria where fantastic
+  adventures await his coming!
+
+--
+
+This version has bitmapped graphics for all objects and some extra
+goodies compared to the original UMoria 5.5 to make it attractive to
+the graphic-oriented Amiga public.  Other than this, it is supposed to
+be as close to the original Umoria 5.5 as possible.  Binary
+distribution.  Version 1.2.
+
+
+Changes and addings to version 1.1:
+
+Menus, faster gameplay, bugfixes, extended graphics, SHIFT+num does a
+run and CTRL+num does a tunnel (just like rogue-mode).  Runnable from
+WorkBench.  etc etc.
+
+Changes and addings to version 1.2:
+
+Updated to UMoria 5.5, and some bugfixes.
+
+
+
+Henrik Harmsen                Internet: d9hh@dtek.chalmers.se
